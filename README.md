@@ -36,7 +36,7 @@ Permite a los usuarios ingresar nombres de amigos, listarlos y seleccionar uno a
 https://www.loom.com/share/46a9faef97694d26b15d403a5164808b
 
 
-##🛠 Tecnologías utilizadas
+## 🛠 Tecnologías utilizadas
 
 HTML → estructura de la aplicación
 
