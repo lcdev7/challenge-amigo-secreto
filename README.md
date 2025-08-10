@@ -1,4 +1,4 @@
-# :tw-1f381: Amigo Secreto
+# 🎁 Amigo Secreto
 Aplicación web sencilla para organizar un sorteo de **Amigo Secreto**.  
 Permite a los usuarios ingresar nombres de amigos, listarlos y seleccionar uno al azar como el “amigo secreto”.
 
