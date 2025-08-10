@@ -19,21 +19,21 @@ Permite a los usuarios ingresar nombres de amigos, listarlos y seleccionar uno a
 - **Reiniciar sorteo**  
   Botón adicional para limpiar la lista y el resultado, permitiendo iniciar un nuevo sorteo.
 
-## :tw-1f4f7: Capturas de pantalla
+## 📸 Capturas de pantalla
 
 ### Pantalla principal
 ![Pantalla principal](assets/pantalla_principal.PNG)
 
 
 ### Agregando nombres de  amigos
-![Resultado sorteo](challenge-amigo-secreto/assets/agregando_nombres_de_amigos.png)
+![Resultado sorteo](assets/agregando_nombres_de_amigos.PNG)
 
 
 ### Sorteo realizado
-![Resultado sorteo](challenge-amigo-secreto/assets/sorteo_realizado.png)
+![Resultado sorteo](assets/sorteo_realizado.PNG)
 
 ## 🎥 Video demostrativo
-[![Ver video](challenge-amigo-secreto/assets/demostracionamigo.mp4)]
+[![Ver video](assets/demostracionamigo.mp4)]
 
 
 
