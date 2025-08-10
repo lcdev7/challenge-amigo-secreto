@@ -5,7 +5,7 @@ Permite a los usuarios ingresar nombres de amigos, listarlos y seleccionar uno a
 ## 📌 Funcionalidades
 
 - **Agregar nombres**  
-  El usuario puede escribir el nombre de un amigo en un campo de texto y añadirlo a la lista con el botón `Añadir`.
+  El usuario puede escribir el nombre de un amigo en el campo de texto y añadirlo a la lista con el botón `Añadir`.
 
 - **Validar entradas**  
   No se permite agregar nombres vacíos. Se mostrará una alerta si se intenta.
