@@ -33,7 +33,7 @@ Permite a los usuarios ingresar nombres de amigos, listarlos y seleccionar uno a
 ![Resultado sorteo](assets/sorteo_realizado.PNG)
 
 ## 🎥 Video demostrativo
-[![Ver video](assets/demostracionamigo.mp4)]
+[![Ver video](https://cdn.loom.com/sessions/thumbnails/46a9faef97694d26b15d403a5164808b-with-play.gif)](https://www.loom.com/share/46a9faef97694d26b15d403a5164808b?sid=00044e2c-9bc3-4a13-bac3-ffa3824c2760)
 
 
 
@@ -46,4 +46,4 @@ CSS → estilos y diseño responsive
 JavaScript → lógica de la aplicación
 
 
-#####Autor: Luis Felipe Caicedo Macias
+## Autor: Luis Felipe Caicedo Macias
