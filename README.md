@@ -22,7 +22,7 @@ Permite a los usuarios ingresar nombres de amigos, listarlos y seleccionar uno a
 ## :tw-1f4f7: Capturas de pantalla
 
 ### Pantalla principal
-![Pantalla principal](challenge-amigo-secreto/assets/pantalla_principal.png )
+![Pantalla principal](challenge-amigo-secreto/assets/pantalla_principal.png)
 
 
 ### Agregando nombres de  amigos
